@@ -1,5 +1,0 @@
-To start the interpretor, run the executable in the bin folder
-
-When running a file, make sure you input the full path!
-
-Documentation will exist one day. Maybe
